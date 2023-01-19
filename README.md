@@ -23,13 +23,13 @@
 **The "MainPage" of this project contains a list of all tables. After selecting the desired table, the associated records will be displayed.**
 
 ![image](https://user-images.githubusercontent.com/92024989/213469473-7ab7c454-4476-4a4a-86cb-39ee579d14e9.png)
-![image](https://user-images.githubusercontent.com/92024989/213471909-0273ee53-0dc6-4048-a9ce-e51d33b425b5.png)
+![image](https://user-images.githubusercontent.com/92024989/213536599-8afbf2e3-16fe-4b45-abee-bce6207ca559.png)
 
 ### *1. Sorting the records*
 
 **The user can sort the records, just by clicking on the column's name he want the records to be sorted by**
 
-![image](https://user-images.githubusercontent.com/92024989/213487990-8839262d-eea2-48b1-861d-090d3b3ae4fc.png)
+![image](https://user-images.githubusercontent.com/92024989/213536483-80eb3656-ab47-4eca-a104-1af8eaf2d2b6.png)
 
 **After sorting, the user will be notified about the sorting direction and expression of the records.**
 
@@ -40,13 +40,13 @@
 
 **The `Edit` button makes the selected record's fields editable. Some of them are locked and non-editable. The `Update` button allows user to set the changes into database.**
 
-![image](https://user-images.githubusercontent.com/92024989/213518444-508e8114-38e3-4957-b89d-57241355d2d6.png)
+![image](https://user-images.githubusercontent.com/92024989/213536832-dc47ddbd-caf2-43c2-a473-becf899dfb09.png)
 
 ### *3. Deleting a record*
 
 **The `Delete` button allows user to delete the selected record. In case the record is an important one ( is calling ON DELETE CASCADE constraint ), the user is informed of the changes that are taking place.**  
 
-![image](https://user-images.githubusercontent.com/92024989/213525182-e5d2b398-5ad4-4118-8e53-dd29ce3e4cc2.png)
+![image](https://user-images.githubusercontent.com/92024989/213537106-68aec29e-a9cd-4409-85a3-4a8261a575bb.png)
 
 ### *4. Creating a record*
 
@@ -62,5 +62,5 @@
 
 Even if this functionality is just for rooms , this is very useful if you want to group rooms by a filter.
 
-![image](https://user-images.githubusercontent.com/92024989/213534141-9182723e-6460-4aa1-8cd6-de25c3c97706.png)
+![image](https://user-images.githubusercontent.com/92024989/213537404-231e1736-def2-4b02-814a-57182205006a.png)
 
