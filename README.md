@@ -19,6 +19,7 @@
 - select a record ( this task helps the user to enter the data correctly )
 
 ## :man_technologist: *User-interface presentation*
+> For a detailed presentation, check the documentation from this repository.
 
 **The "MainPage" of this project contains a list of all tables. After selecting the desired table, the associated records will be displayed.**
 
